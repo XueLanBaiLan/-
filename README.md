@@ -25,7 +25,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/euler-hamilton-graph-checker.git
+git clone https://github.com/XueLanBaiLan/euler-hamilton-graph-checker.git
 cd euler-hamilton-graph-checker
 ```
 
